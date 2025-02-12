@@ -1,0 +1,1 @@
+print("Mariia Hryn, IPZ-3")
